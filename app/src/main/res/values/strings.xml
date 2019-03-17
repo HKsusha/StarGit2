@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">StarGit2</string>
+    <string name="app_name">Counter</string>
+    <string name="hi">Hello</string>
+    <string name="button">Нажми меня</string>
 </resources>
